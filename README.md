@@ -1,6 +1,6 @@
 # Prime-video-dashboard-in-power-bi-power-bi
 <br>
-### Overview :
+## Overview :
 This Power BI dashboard provides insights and analytics for Prime Video. It is designed to help users explore key performance metrics, track user engagement, and analyze content-related data.
 
 ## Features :
@@ -14,3 +14,5 @@ Filter Controls: Use the built-in filters and slicers to view data based on spec
 
 ## Requirements:
 Power BI Desktop Version: [Specify version, if necessary] Data Access: [Describe data source requirements]
+
+![image alt](https://github.com/Shruu-benagi-15/Prime-video-dashboard-in-power-bi-power-bi/blob/47be1f216fbfc112b52bb4f35874b8c2db41cb19/my%20demo%20prime%20powerbi%20dashboard.png)
